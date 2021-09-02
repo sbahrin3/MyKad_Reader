@@ -1,0 +1,12 @@
+net/sb/card/MyKadReader$PhotoProgressCheck.class
+net/sb/card/App.class
+net/sb/card/CardService.class
+net/sb/card/MyKad.class
+net/sb/card/MyKadReader$1.class
+net/sb/card/MyKadApdu.class
+net/sb/card/ProgressCircleUI.class
+net/sb/card/AppPhoto.class
+net/sb/card/MyKadReader$ReadCard.class
+my/test/card/AppTest.class
+net/sb/card/MyKadReader.class
+net/sb/card/HexUtil.class
